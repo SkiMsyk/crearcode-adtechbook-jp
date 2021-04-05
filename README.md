@@ -8,7 +8,7 @@ Japanese translation of [adtechbook.clearcode.cc](https://adtechbook.clearcode.c
 # コンテンツ  
 
 1. [はじめに：Introduction](https://github.com/SkiMsyk/crearcode-adtechbook-jp/blob/main/Introduction.md)
-2. [広告の基本：Advertising Basics]()
+2. [広告の基本：Advertising Basics](https://github.com/SkiMsyk/crearcode-adtechbook-jp/blob/main/02.%20%E5%BA%83%E5%91%8A%E3%81%AE%E5%9F%BA%E6%9C%AC%EF%BC%9AAdvertising%20Basics)
 3. [The History of Digital Advertising Technology]()
 4. [The Main Technology Platforms and Intermediaries in the Digital Advertising Ecosystem]()
 5. [The Main Digital Advertising Mediums and Channels]()
